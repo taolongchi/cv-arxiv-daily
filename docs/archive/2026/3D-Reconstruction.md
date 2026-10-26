@@ -1,8 +1,18 @@
 ## 3D Reconstruction (2026)
-> 10 papers, [archive 2026](./README.md)
+> 20 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction**|Ziang Zhang et.al.|[2610.32250](http://arxiv.org/abs/2610.32250)|<span class="null">—</span>|
+|**2026-10-22**|**PixGR: Pixel-Space Generative Decoding for Fast Feed-Forward 3D Reconstruction**|Ranran Huang et.al.|[2610.31908](http://arxiv.org/abs/2610.31908)|<span class="null">—</span>|
+|**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](http://arxiv.org/abs/2610.31321)|<span class="null">—</span>|
+|**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936](http://arxiv.org/abs/2610.29936)|<span class="null">—</span>|
+|**2026-10-21**|**CausalAlign: Causal Alignment of Video Generation Models for Consistent Ego-Motion**|Kai Zhu et.al.|[2610.29915](http://arxiv.org/abs/2610.29915)|<span class="null">—</span>|
+|**2026-10-21**|**BlazeVGGT: 13x Faster VGGT at 2,000 Frames via Camera Token without Training**|Shujun Yao et.al.|[2610.29454](http://arxiv.org/abs/2610.29454)|**[link](https://github.com/MagiciannnY/BlazeVGGT)**|
+|**2026-10-21**|**Relational Geometry Forcing for World Action Models**|Yuan Xu et.al.|[2610.29282](http://arxiv.org/abs/2610.29282)|<span class="null">—</span>|
+|**2026-10-20**|**Latent Bridge: From Video Latents to 3D Geometry via Feature Alignment**|Shuai Zhang et.al.|[2610.28521](http://arxiv.org/abs/2610.28521)|**[link](https://github.com/hustvl/Latent-Bridge)**|
+|**2026-10-20**|**Brain2Vec: A Self-Supervised 3D Foundation Model for Structural Brain MRI**|Spiros Maggioros et.al.|[2610.28411](http://arxiv.org/abs/2610.28411)|**[link](https://github.com/CBICA/Brain2Vec)**|
+|**2026-10-20**|**From Predictive Geometry to Action: Learning Complementary Predictive Representations for Embodied Manipulation**|Xiaoxu Xu et.al.|[2610.28164](http://arxiv.org/abs/2610.28164)|**[link](https://github.com/xuxiaoxxxx/CPR)**|
 |**2026-10-08**|**Zebra3D: Efficient Hybrid Foundation Models For Scalable 3D Reconstruction**|Utkarsh Saxena et.al.|[2610.12727](http://arxiv.org/abs/2610.12727)|<span class="null">—</span>|
 |**2026-10-08**|**Pumpire: Unified Benchmark for Metric Distance Estimation**|Siyu Chen et.al.|[2610.12423](http://arxiv.org/abs/2610.12423)|**[link](https://github.com/SpatialVision/Pumpire)**|
 |**2026-10-08**|**GenIA: Generative Reconstruction with Test-Time Input Alignment**|Stefano Esposito et.al.|[2610.12388](http://arxiv.org/abs/2610.12388)|**[link](https://github.com/facebookresearch/GenIA)**|
