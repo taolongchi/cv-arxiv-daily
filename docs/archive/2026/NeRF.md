@@ -1,8 +1,9 @@
 ## NeRF (2026)
-> 124 papers, [archive 2026](./README.md)
+> 125 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**DimFlow: Bidirectional Grid-Expert Learning for Dynamic Gaussian Reconstruction**|Gabriel Adineera et.al.|[2610.34952](http://arxiv.org/abs/2610.34952)|<span class="null">—</span>|
 |**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](http://arxiv.org/abs/2610.31321)|<span class="null">—</span>|
 |**2026-10-22**|**GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis**|Henglei Lv et.al.|[2610.30619](http://arxiv.org/abs/2610.30619)|<span class="null">—</span>|
 |**2026-10-21**|**SplatLab: Autonomous Scientific Discovery for 3DGS Research**|Seemandhar Jain et.al.|[2610.30468](http://arxiv.org/abs/2610.30468)|**[link](https://github.com/seemandhar/SplatLab)**|
