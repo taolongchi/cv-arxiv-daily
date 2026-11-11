@@ -1,8 +1,18 @@
 ## VLA and VLN (2026)
-> 40 papers, [archive 2026](./README.md)
+> 50 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies**|Chubin Zhang et.al.|[2611.14488](http://arxiv.org/abs/2611.14488)|**[link](https://github.com/bennidict23/memory-clock)**|
+|**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2611.14432](http://arxiv.org/abs/2611.14432)|**[link](https://github.com/Robot-Learning-Collective/behavior-1k-solution-2026)**|
+|**2026-11-10**|**DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning**|Huaijin Pi et.al.|[2611.14092](http://arxiv.org/abs/2611.14092)|<span class="null">—</span>|
+|**2026-11-09**|**How Much of Your VLA Is kNN**|Denis Grachev et.al.|[2611.13160](http://arxiv.org/abs/2611.13160)|**[link](https://github.com/sereact/lerobot_knn)**|
+|**2026-11-09**|**Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks**|Zequan Zeng et.al.|[2611.13039](http://arxiv.org/abs/2611.13039)|<span class="null">—</span>|
+|**2026-11-09**|**APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models**|Xiaoyang Xing et.al.|[2611.13030](http://arxiv.org/abs/2611.13030)|<span class="null">—</span>|
+|**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Bing Han et.al.|[2611.12806](http://arxiv.org/abs/2611.12806)|**[link](https://github.com/Robbyant/lingbot-touch)**|
+|**2026-11-09**|**VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess**|Matěj Kripner et.al.|[2611.12676](http://arxiv.org/abs/2611.12676)|<span class="null">—</span>|
+|**2026-11-09**|**Be My Eye: Learning to See Beyond a Robot's Own Perspective**|Baifu Huang et.al.|[2611.12295](http://arxiv.org/abs/2611.12295)|<span class="null">—</span>|
+|**2026-11-09**|**VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation**|Yongxuan Lv et.al.|[2611.12286](http://arxiv.org/abs/2611.12286)|<span class="null">—</span>|
 |**2026-11-05**|**OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions**|Arpit Bahety et.al.|[2611.08462](http://arxiv.org/abs/2611.08462)|<span class="null">—</span>|
 |**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[2611.08425](http://arxiv.org/abs/2611.08425)|<span class="null">—</span>|
 |**2026-11-05**|**T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models**|Mohammed Hassan et.al.|[2611.08413](http://arxiv.org/abs/2611.08413)|<span class="null">—</span>|
