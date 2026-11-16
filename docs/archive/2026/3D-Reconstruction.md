@@ -1,8 +1,16 @@
 ## 3D Reconstruction (2026)
-> 47 papers, [archive 2026](./README.md)
+> 55 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Deep Bundle Adjustment**|Pak Hong Chui et.al.|[2611.18256](http://arxiv.org/abs/2611.18256)|<span class="null">—</span>|
+|**2026-11-13**|**EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos**|Hongsen Cao et.al.|[2611.18099](http://arxiv.org/abs/2611.18099)|<span class="null">—</span>|
+|**2026-11-13**|**X-Strata: Separating Aneurysms and Overlapping Vessels into Layers from 2D X-ray Angiography**|Zhihong Wen et.al.|[2611.17743](http://arxiv.org/abs/2611.17743)|<span class="null">—</span>|
+|**2026-11-13**|**ERA: Error-Resistant Autonomous Object Navigation with Predicted Depth**|Shunyang Huang et.al.|[2611.17730](http://arxiv.org/abs/2611.17730)|<span class="null">—</span>|
+|**2026-11-13**|**Training-Free Acceleration of Multi-View 3D Transformers via Regime-Aware Attention Approximation**|Muhammed Izzet Sezer et.al.|[2611.17629](http://arxiv.org/abs/2611.17629)|<span class="null">—</span>|
+|**2026-11-11**|**SpaceMCP: Vision Language Model Spatial Reasoning via Model Context Protocol**|Ameen Izhac et.al.|[2611.15680](http://arxiv.org/abs/2611.15680)|<span class="null">—</span>|
+|**2026-11-11**|**Multi-View 3D Reconstruction Using V-JEPA Features**|Anwar Shamim et.al.|[2611.15143](http://arxiv.org/abs/2611.15143)|**[link](https://github.com/Anwarshamim01/multi-view-3d-reconstruction-using-v-jepa-features)**|
+|**2026-11-10**|**RECALL: Real-Time Recalibration of Multi-Camera Rigs via Learned OEM-Anchored Residuals**|Mario Alberto Tapia de la Cruz et.al.|[2611.14763](http://arxiv.org/abs/2611.14763)|**[link](https://github.com/theICTlab/RECALL-multicam)**|
 |**2026-11-10**|**Sim(3)-TurboReg: Robust and Efficient Scale-Aware Registration via Tri-Scale Consistency**|Zijun Zhou et.al.|[2611.14135](http://arxiv.org/abs/2611.14135)|**[link](https://github.com/ivan-zzj/Sim3-TurboReg)**|
 |**2026-11-10**|**Camera3R: Feed-Forward 3D Reconstruction from Heterogeneous Camera Models**|Ruxiao Duan et.al.|[2611.13453](http://arxiv.org/abs/2611.13453)|**[link](https://github.com/android-xr/camera3r)**|
 |**2026-11-09**|**Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks**|Hao Gu et.al.|[2611.12875](http://arxiv.org/abs/2611.12875)|**[link](https://github.com/UVA-Computer-Vision-Lab/click3r)**|

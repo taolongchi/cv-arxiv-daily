@@ -1,8 +1,15 @@
 ## Gaussian Splatting (2026)
-> 50 papers, [archive 2026](./README.md)
+> 57 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio**|Zeqiang Wei et.al.|[2611.17957](http://arxiv.org/abs/2611.17957)|<span class="null">—</span>|
+|**2026-11-13**|**Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting**|Yan Xing et.al.|[2611.17752](http://arxiv.org/abs/2611.17752)|<span class="null">—</span>|
+|**2026-11-12**|**Kosmo-GFM: A Production-Ready Geometry Foundation Model**|Sheng Tang et.al.|[2611.16840](http://arxiv.org/abs/2611.16840)|<span class="null">—</span>|
+|**2026-11-12**|**Reconstruct What You Can: Distractor-free 4D Gaussian Splatting**|Joel Julin et.al.|[2611.16259](http://arxiv.org/abs/2611.16259)|<span class="null">—</span>|
+|**2026-11-11**|**Topology-Aware 4D Gaussian Splatting for Egocentric Videos**|Leonardo Vanni et.al.|[2611.16012](http://arxiv.org/abs/2611.16012)|<span class="null">—</span>|
+|**2026-11-11**|**ThermalSplat: Generalizable Pose-Free Gaussian Splatting for Sparse-View Thermal 3D Reconstruction**|Prasanna S et.al.|[2611.15435](http://arxiv.org/abs/2611.15435)|<span class="null">—</span>|
+|**2026-11-11**|**MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs**|Yangming Zhang et.al.|[2611.15153](http://arxiv.org/abs/2611.15153)|<span class="null">—</span>|
 |**2026-11-10**|**Where do we Jam? - The Impact of Real and Virtual XR Spaces on Musical Creativity, Co-Presence, Affect, and Flow**|Ruben Schlagowski et.al.|[2611.14029](http://arxiv.org/abs/2611.14029)|<span class="null">—</span>|
 |**2026-11-10**|**FastWild-GS: Minutes-Scale In-the-Wild Gaussian Splatting via Compact Per-Image Appearance Adaptation**|Donghun Ryu et.al.|[2611.13808](http://arxiv.org/abs/2611.13808)|<span class="null">—</span>|
 |**2026-11-10**|**Marrying Capacity and Precision for Efficient 2D Gaussian Image Representation**|Lin Dong et.al.|[2611.13784](http://arxiv.org/abs/2611.13784)|<span class="null">—</span>|

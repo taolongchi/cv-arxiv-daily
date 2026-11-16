@@ -1,8 +1,18 @@
 ## VLA and VLN (2026)
-> 50 papers, [archive 2026](./README.md)
+> 60 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Training Reasoning Models in Simulation to Natively Use Real Robots**|Jiaming Tang et.al.|[2611.18562](http://arxiv.org/abs/2611.18562)|<span class="null">—</span>|
+|**2026-11-13**|**Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent**|Run Luo et.al.|[2611.18397](http://arxiv.org/abs/2611.18397)|**[link](https://github.com/RainBowLuoCS/Gamer)**|
+|**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Suvarna Kadam et.al.|[2611.18372](http://arxiv.org/abs/2611.18372)|<span class="null">—</span>|
+|**2026-11-13**|**ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents**|Yundi Cai et.al.|[2611.18176](http://arxiv.org/abs/2611.18176)|**[link](https://github.com/Embodied-Self-Improvement/ESI)**|
+|**2026-11-12**|**Racing the Clock: Teaching VLNs Budget-Conditioned Object Search**|Maitree Meher et.al.|[2611.17442](http://arxiv.org/abs/2611.17442)|<span class="null">—</span>|
+|**2026-11-12**|**Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training**|Gongyue Teng et.al.|[2611.17394](http://arxiv.org/abs/2611.17394)|<span class="null">—</span>|
+|**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330](http://arxiv.org/abs/2611.17330)|<span class="null">—</span>|
+|**2026-11-12**|**STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models**|Zhuo Han et.al.|[2611.16589](http://arxiv.org/abs/2611.16589)|<span class="null">—</span>|
+|**2026-11-12**|**I See What You Want: Decoding Hierarchical Operator Intent from Visual Teleoperation History**|Xiangyi Jia et.al.|[2611.16419](http://arxiv.org/abs/2611.16419)|<span class="null">—</span>|
+|**2026-11-12**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246](http://arxiv.org/abs/2611.16246)|<span class="null">—</span>|
 |**2026-11-10**|**Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies**|Chubin Zhang et.al.|[2611.14488](http://arxiv.org/abs/2611.14488)|**[link](https://github.com/bennidict23/memory-clock)**|
 |**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2611.14432](http://arxiv.org/abs/2611.14432)|**[link](https://github.com/Robot-Learning-Collective/behavior-1k-solution-2026)**|
 |**2026-11-10**|**DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning**|Huaijin Pi et.al.|[2611.14092](http://arxiv.org/abs/2611.14092)|<span class="null">—</span>|

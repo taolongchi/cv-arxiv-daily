@@ -1,8 +1,18 @@
 ## World Model (2026)
-> 47 papers, [archive 2026](./README.md)
+> 57 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support**|Yifan Jin et.al.|[2611.18458](http://arxiv.org/abs/2611.18458)|<span class="null">—</span>|
+|**2026-11-13**|**WeatherDreamer: Learning a World Model from Multimodal Earth Observations**|Kate Duffy et.al.|[2611.18393](http://arxiv.org/abs/2611.18393)|<span class="null">—</span>|
+|**2026-11-13**|**Toward Universal Translatability: On the Statistical Ontology of Generative AI**|Katia Schwerzmann et.al.|[2611.17963](http://arxiv.org/abs/2611.17963)|<span class="null">—</span>|
+|**2026-11-13**|**V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations**|Keuntae Kim et.al.|[2611.17831](http://arxiv.org/abs/2611.17831)|**[link](https://github.com/kkt94/Llama-V-JEPA-LM)**|
+|**2026-11-13**|**Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models**|Yu Zhou et.al.|[2611.17775](http://arxiv.org/abs/2611.17775)|<span class="null">—</span>|
+|**2026-11-13**|**Joint World Action Models through Differentiable Trajectory Optimization**|Mintae Kim et.al.|[2611.17626](http://arxiv.org/abs/2611.17626)|<span class="null">—</span>|
+|**2026-11-12**|**Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum**|Konstantinos Mylonas et.al.|[2611.17529](http://arxiv.org/abs/2611.17529)|<span class="null">—</span>|
+|**2026-11-12**|**Spatial Foundry: A Multimodal Dataset for Spatial Intelligence**|Ethan Lin et.al.|[2611.17318](http://arxiv.org/abs/2611.17318)|<span class="null">—</span>|
+|**2026-11-12**|**InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling**|Changzeng Fu et.al.|[2611.16647](http://arxiv.org/abs/2611.16647)|<span class="null">—</span>|
+|**2026-11-12**|**Rethinking Actions: Continuity-Aware Priors for World-Model Planning**|Shaobo Yang et.al.|[2611.16645](http://arxiv.org/abs/2611.16645)|<span class="null">—</span>|
 |**2026-11-10**|**OnlyAct: Extracting Action Representations from Foundation Models for World Models**|Runjia Li et.al.|[2611.14420](http://arxiv.org/abs/2611.14420)|<span class="null">—</span>|
 |**2026-11-10**|**Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning**|Souhaila Djaffal et.al.|[2611.14419](http://arxiv.org/abs/2611.14419)|<span class="null">—</span>|
 |**2026-11-10**|**An Energy-Based Perspective on Machine Learning**|Bo Dai et.al.|[2611.14383](http://arxiv.org/abs/2611.14383)|<span class="null">—</span>|

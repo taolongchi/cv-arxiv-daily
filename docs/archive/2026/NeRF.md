@@ -1,8 +1,9 @@
 ## NeRF (2026)
-> 136 papers, [archive 2026](./README.md)
+> 137 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs**|Yangming Zhang et.al.|[2611.15153](http://arxiv.org/abs/2611.15153)|<span class="null">—</span>|
 |**2026-11-10**|**FastWild-GS: Minutes-Scale In-the-Wild Gaussian Splatting via Compact Per-Image Appearance Adaptation**|Donghun Ryu et.al.|[2611.13808](http://arxiv.org/abs/2611.13808)|<span class="null">—</span>|
 |**2026-11-06**|**URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes**|Kefei Qian et.al.|[2611.12932](http://arxiv.org/abs/2611.12932)|<span class="null">—</span>|
 |**2026-11-07**|**VAComp: View-Aware Full Projector Compensation**|Kai Zhou et.al.|[2611.10637](http://arxiv.org/abs/2611.10637)|<span class="null">—</span>|

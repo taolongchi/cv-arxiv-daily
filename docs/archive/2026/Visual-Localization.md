@@ -1,8 +1,9 @@
 ## Visual Localization (2026)
-> 206 papers, [archive 2026](./README.md)
+> 207 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Few-Shot Cross-Subject Neural--Image Retrieval via Stimulus-Anchored Latent Bias Calibration**|Xizhang Yao et.al.|[2611.16257](http://arxiv.org/abs/2611.16257)|**[link](https://github.com/Xizhang-Yao/SA-LBC)**|
 |**2026-11-10**|**RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval**|Tanishq Rachamalla et.al.|[2611.14496](http://arxiv.org/abs/2611.14496)|**[link](https://github.com/Tanishq251/RSJEPA)**|
 |**2026-11-10**|**Satellite Pretraining Is Not One Thing: A Matched-Pair Study of Generic and Earth-Observation Foundation Models for Scene Classification**|Sandarbh Agrawal et.al.|[2611.13849](http://arxiv.org/abs/2611.13849)|<span class="null">—</span>|
 |**2026-11-09**|**Complementarity-Driven Dual-Teacher Hierarchical Alignment for Zero-Shot EEG-to-Image Retrieval**|Lukun Wu et.al.|[2611.12798](http://arxiv.org/abs/2611.12798)|<span class="null">—</span>|

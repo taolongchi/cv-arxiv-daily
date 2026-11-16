@@ -1,8 +1,9 @@
 ## SFM (2026)
-> 128 papers, [archive 2026](./README.md)
+> 129 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Deep Bundle Adjustment**|Pak Hong Chui et.al.|[2611.18256](http://arxiv.org/abs/2611.18256)|<span class="null">—</span>|
 |**2026-11-09**|**Budget-aware Correspondence-driven View Selection for Real-time 3D Perception of Mobile Robots**|Vaishnav Ramesh et.al.|[2611.11809](http://arxiv.org/abs/2611.11809)|<span class="null">—</span>|
 |**2026-11-09**|**Towards Rotation-Only Imaging Geometry: Multi-View Pose Estimation**|Xinrui Li et.al.|[2611.11770](http://arxiv.org/abs/2611.11770)|<span class="null">—</span>|
 |**2026-11-07**|**VAComp: View-Aware Full Projector Compensation**|Kai Zhou et.al.|[2611.10637](http://arxiv.org/abs/2611.10637)|<span class="null">—</span>|
