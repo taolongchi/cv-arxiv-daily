@@ -1,8 +1,18 @@
 ## VLA and VLN (2026)
-> 60 papers, [archive 2026](./README.md)
+> 70 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation**|Kai Lu et.al.|[2611.26596](http://arxiv.org/abs/2611.26596)|<span class="null">—</span>|
+|**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565](http://arxiv.org/abs/2611.26565)|<span class="null">—</span>|
+|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444](http://arxiv.org/abs/2611.26444)|**[link](https://github.com/Mind2Act/Mind2Act_World)**|
+|**2026-11-19**|**Risk-Controlled Test-Time Adaptation for Vision-Language-Action Models**|Zixuan Liu et.al.|[2611.26438](http://arxiv.org/abs/2611.26438)|<span class="null">—</span>|
+|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**| EngineAI et.al.|[2611.26420](http://arxiv.org/abs/2611.26420)|<span class="null">—</span>|
+|**2026-11-19**|**ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain**|Zixuan Huang et.al.|[2611.26414](http://arxiv.org/abs/2611.26414)|**[link](https://github.com/hzx122/ZeroVLN)**|
+|**2026-11-19**|**TacInno: Teaching Vision-Language-Action Models the Contact Dynamics Beyond Vision and Action**|Weile Li et.al.|[2611.26405](http://arxiv.org/abs/2611.26405)|<span class="null">—</span>|
+|**2026-11-19**|**FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving**|Changtao Zhao et.al.|[2611.26242](http://arxiv.org/abs/2611.26242)|**[link](https://github.com/ADEPT-ORG/FastRoverVLA)**|
+|**2026-11-19**|**Teaching Vision-Language-Action Models to Stop Safely**|Zheyuan Liu et.al.|[2611.26239](http://arxiv.org/abs/2611.26239)|**[link](https://github.com/franciscoliu/SAFI)**|
+|**2026-11-19**|**One View, One Action: Spatially Generalizable VLAs through Observation-Aligned Experts and Cross Graph Consistency**|Jinxi Liu et.al.|[2611.26161](http://arxiv.org/abs/2611.26161)|<span class="null">—</span>|
 |**2026-11-13**|**Training Reasoning Models in Simulation to Natively Use Real Robots**|Jiaming Tang et.al.|[2611.18562](http://arxiv.org/abs/2611.18562)|<span class="null">—</span>|
 |**2026-11-13**|**Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent**|Run Luo et.al.|[2611.18397](http://arxiv.org/abs/2611.18397)|**[link](https://github.com/RainBowLuoCS/Gamer)**|
 |**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Suvarna Kadam et.al.|[2611.18372](http://arxiv.org/abs/2611.18372)|<span class="null">—</span>|

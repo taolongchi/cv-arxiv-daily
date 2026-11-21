@@ -1,8 +1,18 @@
 ## 3D Reconstruction (2026)
-> 55 papers, [archive 2026](./README.md)
+> 65 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention**|Aoxiang Fan et.al.|[2611.26493](http://arxiv.org/abs/2611.26493)|<span class="null">—</span>|
+|**2026-11-19**|**Homeward: No Place Like the Training View**|Mingyang Lyu et.al.|[2611.24455](http://arxiv.org/abs/2611.24455)|<span class="null">—</span>|
+|**2026-11-18**|**One Shot, Any View: High-Fidelity Video Reshooting with Geometry Guidance and Visual References**|Kai Huang et.al.|[2611.24253](http://arxiv.org/abs/2611.24253)|<span class="null">—</span>|
+|**2026-11-18**|**What Do Learned 3D Models Add to Localization from Posed References?**|Jaehyun Kim et.al.|[2611.23697](http://arxiv.org/abs/2611.23697)|<span class="null">—</span>|
+|**2026-11-17**|**Layer-Matched Sparse Attention for Low-Redundancy 3D Reconstruction**|Sammam Mahdi et.al.|[2611.23554](http://arxiv.org/abs/2611.23554)|<span class="null">—</span>|
+|**2026-11-17**|**Refin3R: Geometry-Guided Refinement for Feed-Forward 3D Reconstruction**|Jongmin Lee et.al.|[2611.23051](http://arxiv.org/abs/2611.23051)|<span class="null">—</span>|
+|**2026-11-17**|**PhyVGGT: Feed-Forward Articulated Object Reconstruction from Monocular Videos**|Qi Shao et.al.|[2611.22244](http://arxiv.org/abs/2611.22244)|<span class="null">—</span>|
+|**2026-11-16**|**Déjà-Events: Multi-view 3D Geometry with Event Cameras via Sparsity-Aware Adaptive Gating**|Arda Cinar Demirtas et.al.|[2611.21302](http://arxiv.org/abs/2611.21302)|<span class="null">—</span>|
+|**2026-11-17**|**IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes**|Yifei Tong et.al.|[2611.21126](http://arxiv.org/abs/2611.21126)|<span class="null">—</span>|
+|**2026-11-16**|**VA-Assembly: View-Aligned Score Guidance for Training-Free 3D Part Assembly**|Yeon-Jae Kim et.al.|[2611.20788](http://arxiv.org/abs/2611.20788)|<span class="null">—</span>|
 |**2026-11-13**|**Deep Bundle Adjustment**|Pak Hong Chui et.al.|[2611.18256](http://arxiv.org/abs/2611.18256)|<span class="null">—</span>|
 |**2026-11-13**|**EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos**|Hongsen Cao et.al.|[2611.18099](http://arxiv.org/abs/2611.18099)|<span class="null">—</span>|
 |**2026-11-13**|**X-Strata: Separating Aneurysms and Overlapping Vessels into Layers from 2D X-ray Angiography**|Zhihong Wen et.al.|[2611.17743](http://arxiv.org/abs/2611.17743)|<span class="null">—</span>|

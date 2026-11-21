@@ -1,8 +1,18 @@
 ## World Model (2026)
-> 57 papers, [archive 2026](./README.md)
+> 67 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement**|Yansong Qu et.al.|[2611.26615](http://arxiv.org/abs/2611.26615)|<span class="null">—</span>|
+|**2026-11-19**|**Plan4D: Generative Plannable 4D Worlds**|Hangwei Zhang et.al.|[2611.26516](http://arxiv.org/abs/2611.26516)|<span class="null">—</span>|
+|**2026-11-19**|**Monte Carlo Pass Search for Setpieces**|Andrew Kang et.al.|[2611.26464](http://arxiv.org/abs/2611.26464)|<span class="null">—</span>|
+|**2026-11-19**|**FEA solver integration of a composite World Model with a Spiking Neural Network memory Block for computationally efficient modelling of defects and variabilities**|Bassam El Said et.al.|[2611.26419](http://arxiv.org/abs/2611.26419)|<span class="null">—</span>|
+|**2026-11-19**|**World Models Favor Learned Priors over Visual Evidence**|Han Xiao et.al.|[2611.26366](http://arxiv.org/abs/2611.26366)|<span class="null">—</span>|
+|**2026-11-19**|**SpecWM: Turning Verification into Refinement for Streaming World Models**|Jiaming Li et.al.|[2611.26211](http://arxiv.org/abs/2611.26211)|<span class="null">—</span>|
+|**2026-11-19**|**Can World Models Predict Rice Growth? Toward Agricultural World Models**|Wenkai Ji et.al.|[2611.26145](http://arxiv.org/abs/2611.26145)|<span class="null">—</span>|
+|**2026-11-19**|**Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models**|John Won et.al.|[2611.25980](http://arxiv.org/abs/2611.25980)|<span class="null">—</span>|
+|**2026-11-19**|**Point Dynamics as Proxy for Robotic World Models**|Dong An et.al.|[2611.25946](http://arxiv.org/abs/2611.25946)|<span class="null">—</span>|
+|**2026-11-19**|**Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models**|Yao Zhang et.al.|[2611.25927](http://arxiv.org/abs/2611.25927)|**[link](https://github.com/Sofilyzia/Fast-JEPA)**|
 |**2026-11-13**|**When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support**|Yifan Jin et.al.|[2611.18458](http://arxiv.org/abs/2611.18458)|<span class="null">—</span>|
 |**2026-11-13**|**WeatherDreamer: Learning a World Model from Multimodal Earth Observations**|Kate Duffy et.al.|[2611.18393](http://arxiv.org/abs/2611.18393)|<span class="null">—</span>|
 |**2026-11-13**|**Toward Universal Translatability: On the Statistical Ontology of Generative AI**|Katia Schwerzmann et.al.|[2611.17963](http://arxiv.org/abs/2611.17963)|<span class="null">—</span>|
